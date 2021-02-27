@@ -1,0 +1,2 @@
+# MPC_aircraft
+Aircraft jet landing has been studied extensively for performing optimized and accurate maneuvers. These conditions are of great value for air-coast and navy defence where the runway is short and thus landing within a restricted set of conditions is required. Some scenario also require a constant height or keeping a constant distance from refuelling planes. In this article, we attempt to pursue the problem of optimum control with MPC tools and attempt to highlight the differences obtained.
